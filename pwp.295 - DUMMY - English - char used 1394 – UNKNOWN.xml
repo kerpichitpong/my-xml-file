@@ -20,21 +20,22 @@
 </headline>
 <instruction>
 </instruction>
+<web>http://www.testweb.com</web>
  <resource>
         <resourceDesc>Image file (GIF)</resourceDesc>
         <mimeType>image/gif</mimeType>
         <uri>http://www.testweb.com/1.gif</uri>
-    </resource>
-    <resource>
+</resource>
+<resource>
         <resourceDesc>PDF document</resourceDesc>
         <mimeType>application/pdf</mimeType>
         <uri>http://www.testweb.com/2.pdf</uri>
-    </resource>
-    <resource>
+</resource>
+<resource>
         <resourceDesc>Text file</resourceDesc>
         <mimeType>text/plain</mimeType>
         <uri>http://www.testweb.com/3.txt</uri>
-    </resource>
+</resource>
 <area>
 <areaDesc>TEST-AIS2507</areaDesc>
 <polygon>14.38055,101.54953 14.38201,101.54948 14.38199,101.55085 14.3805,101.5509 14.38055,101.54953</polygon>
