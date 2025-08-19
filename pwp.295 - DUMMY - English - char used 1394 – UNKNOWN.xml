@@ -1,7 +1,7 @@
 <alert xmlns="urn:oasis:names:tc:emergency:cap:1.2">
 <identifier>pwp.295.295</identifier>
 <sender>aiseverbridge</sender>
-<sent>2025-07-25T15:37:57+07:00</sent>
+<sent>2025-08-19T09:37:57+07:00</sent>
 <status>Actual</status>
 <msgType>Alert</msgType>
 <scope>Public</scope>
