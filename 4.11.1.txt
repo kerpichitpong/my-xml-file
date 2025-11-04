@@ -1,0 +1,26 @@
+<alert xmlns="urn:oasis:names:tc:emergency:cap:1.2">
+  <identifier>test.pwp.04.11.1</identifier>
+  <sender>nteverbridge</sender>
+  <sent>2025-11-04T10:10:47+07:00</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>th-TH</language>
+    <category>Other</category>
+    <event>PRA</event>
+    <urgency>Immediate</urgency>
+    <severity>Extreme</severity>
+    <certainty>Observed</certainty>
+    <effective>2025-11-04T10:10:47+07:00</effective>
+    <expires>2025-11-04T11:30:47+07:00</expires>
+    <senderName>A separate group for Raydant to support DDPM.</senderName>
+    <headline>headline</headline>
+    <instruction>instruction ข้อมูลจาก CellBroadcast</instruction>
+    <area>
+      <areaDesc>ภาคตะวันออก ชลบุรี</areaDesc>
+      <polygon>13.466097,100.985718 13.473576,100.977106 13.430513,100.974386 13.383143,100.989118</polygon>
+      <polygon>12.285485,102.243164 12.296818,102.243617 12.297498,102.239537 12.291831,102.234778 12.281179,102.238857 12.285485,102.243164</polygon>
+    </area>
+  </info>
+</alert>
