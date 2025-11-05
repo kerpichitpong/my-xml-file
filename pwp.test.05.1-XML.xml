@@ -1,0 +1,42 @@
+﻿<alert xmlns="urn:oasis:names:tc:emergency:cap:1.2">
+  <identifier>pwp.test.05.1</identifier>
+  <sender>nteverbridge</sender>
+  <sent>2025-11-05T09:00:30+07:00</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <info>
+    <language>th-TH</language>
+    <category>Other</category>
+    <event>PRA</event>
+    <urgency>Immediate</urgency>
+    <severity>Extreme</severity>
+    <certainty>Observed</certainty>
+    <effective>2025-11-05T09:00:30+07:00</effective>
+    <expires>2025-11-05T12:30:30+07:00</expires>
+    <senderName>A separate group for Raydant to support DDPM.</senderName>
+    <headline>ทดสอบระบบการส่งข้อความแจ้งเตือนภัยผ่านโทรศัพท์เคลื่อนที่</headline>
+    <instruction>ทดสอบระบบการส่งข้อความแจ้งเตือนภัยผ่านโทรศัพท์เคลื่อนที่</instruction>
+    <area>
+      <areaDesc>Test_coverage10102025.kml</areaDesc>
+      <polygon>14.38157,101.55346 14.38155,101.55465 14.38062,101.55468 14.38067,101.55347 14.38157,101.55346</polygon>
+    </area>
+  </info>
+  <info>
+    <language>en-US</language>
+    <category>Other</category>
+    <event>PRA</event>
+    <urgency>Immediate</urgency>
+    <severity>Extreme</severity>
+    <certainty>Observed</certainty>
+    <effective>2025-11-05T09:00:30+07:00</effective>
+    <expires>2025-11-05T12:30:30+07:00</expires>
+    <senderName>A separate group for Raydant to support DDPM.</senderName>
+    <headline>This is a test message from Department of Disaster Prevention and Mitigation (DDPM).</headline>
+    <instruction>This is a test message from Department of Disaster Prevention and Mitigation (DDPM) </instruction>
+    <area>
+      <areaDesc>Test_EN_coverage10102025.kml</areaDesc>
+      <polygon>14.38157,101.55346 14.38155,101.55465 14.38062,101.55468 14.38067,101.55347 14.38157,101.55346</polygon>
+    </area>
+  </info>
+</alert>
