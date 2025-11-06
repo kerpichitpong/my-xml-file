@@ -10,11 +10,11 @@
     <language>th-TH</language>
     <category>Other</category>
     <event>PRA</event>
-    <urgency>ทันที</urgency>
-    <severity>ร้ายแรง</severity>
-    <certainty>เป็นไปได้</certainty>
+    <urgency>Immediate</urgency>
+    <severity>Severe</severity>
+    <certainty>Likely</certainty>
     <effective>2025-11-06T13:40:00+07:00</effective>
-    <expires>2025-11-06T18:300:00+07:00/expires>
+    <expires>2025-11-06T18:300:00+07:00</expires>
     <senderName>NDWC</senderName>
     <headline>headline ข้อมูลจาก CellBroadcast</headline>
     <description>ทดสอบ Desc</description>
