@@ -1,0 +1,118 @@
+<feed xmlns:cap="urn:oasis:names:tc:emergency:cap:1.2" xmlns="http://www.w3.org/2005/Atom">
+<id>https://www.tmd.go.th</id>
+<title>TMD_CAP</title>
+<updated>2025-11-10T11:57:41+07:00</updated>
+<author>
+<name>TMD</name>
+</author>
+<copyright>public domain</copyright>
+<link rel="self" href="https://www.tmd.go.th/api/xml/CAP"/>
+<entry>
+<id>TMD20251109162349_2</id>
+<title>ฝนตกหนัก</title>
+<updated>2025-11-09T16:21:00+07:00</updated>
+<author>
+<name>TMD</name>
+</author>
+<link type="application/cap+xml" href="https://www.tmd.go.th/uploads/CAP/CAPTMD20251109162349_2.xml"/>
+<status>Actual</status>
+<msgType>Update</msgType>
+<scope>Public</scope>
+<category>Met</category>
+<event>Heavy Rain</event>
+<urgency>Immediate</urgency>
+<severity>Severe</severity>
+<certainty>Likely</certainty>
+<summary type="html">ภาคเหนือมีฝนตกหนักบางแห่ง โดยเฉพาะบริเวณจังหวัดแม่ฮ่องสอน เชียงใหม่ เชียงราย ลำพูน ลำปาง พะเยา และตาก เนื่องจากหย่อมความกดอากาศต่ำปกคลุมด้านตะวันตกของภาคเหนือและประเทศเมียนมา สำหรับภาคใต้มีฝนฟ้าคะนองบางแห่ง เนื่องจากมีลมตะวันตกเฉียงใต้พัดปกคลุมทะเลอันดามันและภาคใต้ ส่วนคลื่นลมบริเวณทะเลอันดามันมีกำลังปานกลาง โดยมีคลื่นสูง 1-2 เมตร บริเวณที่มีฝนฟ้าคะนองคลื่นสูงมากกว่า 2 เมตร อ่าวไทยมีคลื่นสูงประมาณ 1 เมตร บริเวณที่มีฝนฟ้าคะนองคลื่นสูงมากกว่า 2 เมตร ขอให้ชาวเรือเดินเรือด้วยความระมัดระวัง หลีกเลี่ยงการเดินเรือในบริเวณที่มีฝนฟ้าคะนอง </summary>
+</entry>
+<entry>
+<id>TMD20251109053021_2</id>
+<title>ฝนตกหนัก</title>
+<updated>2025-11-09T05:27:00+07:00</updated>
+<author>
+<name>TMD</name>
+</author>
+<link type="application/cap+xml" href="https://www.tmd.go.th/uploads/CAP/CAPTMD20251109053021_2.xml"/>
+<status>Actual</status>
+<msgType>Alert</msgType>
+<scope>Public</scope>
+<category>Met</category>
+<event>Heavy Rain</event>
+<urgency>Immediate</urgency>
+<severity>Severe</severity>
+<certainty>Likely</certainty>
+<summary type="html"> พยากรณ์อากาศ 24 ชั่วโมงข้างหน้า ภาคเหนือมีฝนตกหนักบางแห่ง โดยเฉพาะบริเวณจังหวัดแม่ฮ่องสอน เชียงใหม่ เชียงราย ลำพูน ลำปาง พะเยา และตาก เนื่องจากหย่อมความกดอากาศต่ำปกคลุมด้านตะวันตกของภาคเหนือและประเทศเมียนมา สำหรับภาคใต้มีฝนตกหนักบางแห่ง เนื่องจากมีลมตะวันตกเฉียงใต้พัดปกคลุมทะเลอันดามันและภาคใต้ ส่วนคลื่นลมบริเวณทะเลอันดามันมีกำลังปานกลาง โดยมีคลื่นสูง 1-2 เมตร บริเวณที่มีฝนฟ้าคะนองคลื่นสูงมากกว่า 2 เมตร อ่าวไทยมีคลื่นสูงประมาณ 1 เมตร บริเวณที่มีฝนฟ้าคะนองคลื่นสูงมากกว่า 2 เมตร </summary>
+</entry>
+<entry>
+<id>TMD20251108162756_2</id>
+<title>ฝนตกหนัก</title>
+<updated>2025-11-08T16:24:00+07:00</updated>
+<author>
+<name>TMD</name>
+</author>
+<link type="application/cap+xml" href="https://www.tmd.go.th/uploads/CAP/CAPTMD20251108162756_2.xml"/>
+<status>Actual</status>
+<msgType>Alert</msgType>
+<scope>Public</scope>
+<category>Met</category>
+<event>Heavy Rain</event>
+<urgency>Immediate</urgency>
+<severity>Severe</severity>
+<certainty>Likely</certainty>
+<summary type="html">พยากรณ์อากาศ 24 ชั่วโมงข้างหน้า ภาคเหนือ และภาคกลางตอนบนมีฝนตกหนักบางแห่ง โดยเฉพาะบริเวณจังหวัดแม่ฮ่องสอน เชียงใหม่ เชียงราย ลำพูน ลำปาง สุโขทัย ตาก และกำแพงเพชร เนื่องจากหย่อมความกดอากาศต่ำที่อ่อนกำลังลงจากพายุ “คัลแมกี” (KALMAEGI) ปกคลุมบริเวณด้านตะวันตกของภาคตะวันออกเฉียงเหนือและภาคเหนือตอนล่าง และจะเคลื่อนเข้าปกคลุมภาคเหนือในระยะต่อไป สำหรับภาคใต้มีฝนตกหนักบางแห่ง เนื่องจากมีลมตะวันตกเฉียงใต้พัดปกคลุมทะเลอันดามันและภาคใต้ ส่วนคลื่นลมบริเวณทะเลอันดามันมีกำลังปานกลาง โดยมีคลื่นสูงประมาณ 2 เมตร บริเวณที่มีฝนฟ้าคะนองคลื่นสูงมากกว่า 2 เมตร อ่าวไทยมีคลื่นสูงประมาณ 1 เมตร บริเวณที่มีฝนฟ้าคะนองคลื่นสูงมากกว่า 2 เมตร </summary>
+</entry>
+<entry>
+<id>TMD20251108061155_2</id>
+<title>ฝนตกหนัก</title>
+<updated>2025-11-08T06:06:00+07:00</updated>
+<author>
+<name>TMD</name>
+</author>
+<link type="application/cap+xml" href="https://www.tmd.go.th/uploads/CAP/CAPTMD20251108061155_2.xml"/>
+<status>Actual</status>
+<msgType>Alert</msgType>
+<scope>Public</scope>
+<category>Met</category>
+<event>Heavy Rain</event>
+<urgency>Immediate</urgency>
+<severity>Severe</severity>
+<certainty>Likely</certainty>
+<summary type="html">ภาคตะวันออกเฉียงเหนือด้านตะวันตก ภาคกลาง และภาคตะวันออก มีฝนตกหนักบางแห่ง โดยเฉพาะบริเวณจังหวัดแม่ฮ่องสอน เชียงใหม่ เชียงราย ลำพูน ลำปาง สุโขทัย ตาก และกำแพงเพชร เนื่องจากหย่อมความกดอากาศต่ำที่อ่อนกำลังลงจากพายุ “คัลแมกี” (KALMAEGI) ปกคลุมบริเวณด้านตะวันตกของภาคตะวันออกเฉียงเหนือ และมีแนวโน้มจะเคลื่อนผ่านภาคกลางตอนบน และภาคเหนือ ตามลำดับ สำหรับภาคใต้ มีฝนตกหนักบางแห่ง เนื่องจากมีลมตะวันตกและลมตะวันตกเฉียงใต้พัดปกคลุมทะเลอันดามันและภาคใต้ ส่วนคลื่นลมบริเวณทะเลอันดามันมีกำลังค่อนข้างแรง โดยมีคลื่นสูง 2-3 เมตร บริเวณที่มีฝนฟ้าคะนองคลื่นสูงมากกว่า 3 เมตร อ่าวไทยตอนบนมีคลื่นสูง 1-2 เมตร บริเวณที่มีฝนฟ้าคะนองคลื่นสูงมากกว่า 2 เมตร </summary>
+</entry>
+<entry>
+<id>TMD20251107170346_2</id>
+<title>ฝนตกหนักมาก</title>
+<updated>2025-11-07T16:59:00+07:00</updated>
+<author>
+<name>TMD</name>
+</author>
+<link type="application/cap+xml" href="https://www.tmd.go.th/uploads/CAP/CAPTMD20251107170346_2.xml"/>
+<status>Actual</status>
+<msgType>Alert</msgType>
+<scope>Public</scope>
+<category>Met</category>
+<event>Very Heavy Rain</event>
+<urgency>Immediate</urgency>
+<severity>Extreme</severity>
+<certainty>Likely</certainty>
+<summary type="html">ภาคตะวันออกเฉียงเหนือมีฝนตกหนักถึงหนักมากบางแห่งกับมีลมแรง โดยเฉพาะบริเวณจังหวัดร้อยเอ็ด มหาสารคาม ศรีสะเกษ สุรินทร์ และบุรีรัมย์ ส่วนภาคเหนือ ภาคกลาง ภาคตะวันออก รวมทั้งกรุงเทพมหานครและปริมณฑล มีฝนตกหนักบางพื้นที่ เนื่องจากอิทธิพลของพายุดีเปรสชัน“คัลแมกี” (KALMAEGI) บริเวณจังหวัดศรีสะเกษ และมีแนวโน้มจะอ่อนกำลังลงเป็นหย่อมความกดอากาศต่ำกำลังแรงในระยะต่อไป สำหรับภาคใต้มีฝนตกหนักบางแห่ง เนื่องจากมีลมตะวันตกเฉียงใต้กำลังค่อนข้างแรงพัดปกคลุมทะเลอันดามันและภาคใต้ ส่วนคลื่นลมบริเวณทะเลอันดามันมีกำลังค่อนข้างแรงโดยมีคลื่นสูง 2-3 เมตร บริเวณที่มีฝนฟ้าคะนองมีคลื่นสูงมากกว่า 3 เมตร อ่าวไทยตอนบนมีคลื่นสูงประมาณ 2 เมตร บริเวณที่มีฝนฟ้าคะนองคลื่นสูงมากกว่า 2 เมตร </summary>
+</entry>
+<entry>
+<id>TMD20251107165831_2</id>
+<title>ฝนตกหนัก</title>
+<updated>2025-11-07T16:49:00+07:00</updated>
+<author>
+<name>TMD</name>
+</author>
+<link type="application/cap+xml" href="https://www.tmd.go.th/uploads/CAP/CAPTMD20251107165831_2.xml"/>
+<status>Actual</status>
+<msgType>Alert</msgType>
+<scope>Public</scope>
+<category>Met</category>
+<event>Heavy Rain</event>
+<urgency>Immediate</urgency>
+<severity>Severe</severity>
+<certainty>Likely</certainty>
+<summary type="html">ภาคตะวันออกเฉียงเหนือมีฝนตกหนักถึงหนักมากบางแห่งกับมีลมแรง โดยเฉพาะบริเวณจังหวัดร้อยเอ็ด มหาสารคาม ศรีสะเกษ สุรินทร์ และบุรีรัมย์ ส่วนภาคเหนือ ภาคกลาง ภาคตะวันออก รวมทั้งกรุงเทพมหานครและปริมณฑล มีฝนตกหนักบางพื้นที่ เนื่องจากอิทธิพลของพายุดีเปรสชัน“คัลแมกี” (KALMAEGI) บริเวณจังหวัดศรีสะเกษ และมีแนวโน้มจะอ่อนกำลังลงเป็นหย่อมความกดอากาศต่ำกำลังแรงในระยะต่อไป สำหรับภาคใต้มีฝนตกหนักบางแห่ง เนื่องจากมีลมตะวันตกเฉียงใต้กำลังค่อนข้างแรงพัดปกคลุมทะเลอันดามันและภาคใต้ ส่วนคลื่นลมบริเวณทะเลอันดามันมีกำลังค่อนข้างแรงโดยมีคลื่นสูง 2-3 เมตร บริเวณที่มีฝนฟ้าคะนองมีคลื่นสูงมากกว่า 3 เมตร อ่าวไทยตอนบนมีคลื่นสูงประมาณ 2 เมตร บริเวณที่มีฝนฟ้าคะนองคลื่นสูงมากกว่า 2 เมตร </summary>
+</entry>
+</feed>
