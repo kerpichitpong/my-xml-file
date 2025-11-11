@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link rel="hub" href="//alert-hub.appspot.com" />
+    <atom:link rel="self" href="https://www.tnd.go.th/services/rss.xml" type="application/rss+xml" />
+    <title>Latest alerts from Thai Meteorological Department (TMD)</title>
+    <link>https://www.tnd.go.th/services/rss.xml</link>
+    <description>Latest alerts from Thai Meteorological Department (TMD)</description>
+    <language>en</language>
+    <copyright>public domain</copyright>
+    <pubDate>Thu, 06 Nov 2025 05:40:00 +0700</pubDate>
+    <lastBuildDate>Thu, 06 Nov 2025 05:40:00 +0700</lastBuildDate>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <image>
+      <title>Latest alerts from Thai Meteorological Department (TMD)</title>
+      <url>http://www.rnd.tmd.go.th/img/logo/tmdlogo2024.png</url>
+      <link>https://www.tnd.go.th/services/rss.xml</link>
+    </image>
+    <item>
+      <title>Heavy Rain Risk Area</title>
+      <link>https://www.tmd.go.th/uploads/CAP/en/CAPTMD20251106054048_2.xml</link>
+      <description>The monsoon through lies across the upper South, the upper Gulf, and the East. Meanwhile the moderate high-pressure system from China cover the Northeast. Less rain is likely in the upper Thailand but isolated heavy rains are likely in the South while morning cool remains in the upper North and the Northeast. The strong winds and waves in the upper Andaman Sea are expected to 2-3 meters high, and above 3 meters in thundershowers. In the upper Gulf, waves is expected to be 1-2 meters high, and above 2 meters in thundershowers.</description>
+      <author>info_service@tmd.mail.go.th (Thai Meteorological Department)</author>
+      <guid isPermaLink="false">TMD20251106054048_2-en</guid>
+      <pubDate>Thu, 06 Nov 2025 05:40:00 +0700</pubDate>
+    </item>
+  </channel>
+</rss>
