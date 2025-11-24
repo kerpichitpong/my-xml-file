@@ -1,0 +1,26 @@
+﻿<alert xmlns="urn:oasis:names:tc:emergency:cap:1.2">
+  <identifier>pwp.24.11.2</identifier>
+  <sender>everbridge</sender>
+  <sent>2025-11-24T10:11:00+07:00</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <scope>Public</scope>
+  <note>DBGF bypass</note>
+  <info>
+    <language>th-TH</language>
+    <category>Other</category>
+    <event>TestExternalEvent</event>
+    <urgency>Immediate</urgency>
+    <severity>Extreme</severity>
+    <certainty>Observed</certainty>
+    <effective>2025-11-24T10:10:00+07:00</effective>
+    <expires>2025-11-24T10:30:00+07:00</expires>
+    <senderName>A separate group for Raydant to support DDPM.</senderName>
+    <headline>Cell Broadcast Alarm Test From the Department of Disaster Prevention and Mitigation (DPRM), please do not panic.</headline>
+    <instruction>This is a test message from Department of Disaster Prevention and Mitigation (DDPM). No action required. Sent on November 13 2:10PM.</instruction>
+    <area>
+      <areaDesc>tt1polygon</areaDesc>
+      <polygon>13.76209,100.56789 13.76281,100.56797 13.76253,100.56914 13.76183,100.569 13.76209,100.56789</polygon>
+    </area>
+  </info>
+</alert>
